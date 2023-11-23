@@ -1,0 +1,9 @@
+CREATE VIEW uvwPessoaFisicaJuridica
+
+AS
+
+
+
+
+
+
