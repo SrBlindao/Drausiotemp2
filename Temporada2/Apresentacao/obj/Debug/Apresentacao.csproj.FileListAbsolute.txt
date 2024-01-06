@@ -1,0 +1,9 @@
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\bin\Debug\Apresentacao.exe.config
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\bin\Debug\Apresentacao.exe
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\bin\Debug\Apresentacao.pdb
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\obj\Debug\Apresentacao.csproj.AssemblyReference.cache
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.cache
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\obj\Debug\Apresentacao.csproj.CoreCompileInputs.cache
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\obj\Debug\Apresentacao.exe
+E:\GitHub\Drausiotemp2\Temporada2\Apresentacao\obj\Debug\Apresentacao.pdb

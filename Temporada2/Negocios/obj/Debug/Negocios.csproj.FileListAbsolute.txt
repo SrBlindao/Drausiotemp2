@@ -1,0 +1,6 @@
+E:\GitHub\Drausiotemp2\Temporada2\Negocios\bin\Debug\Negocios.dll
+E:\GitHub\Drausiotemp2\Temporada2\Negocios\bin\Debug\Negocios.pdb
+E:\GitHub\Drausiotemp2\Temporada2\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+E:\GitHub\Drausiotemp2\Temporada2\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+E:\GitHub\Drausiotemp2\Temporada2\Negocios\obj\Debug\Negocios.dll
+E:\GitHub\Drausiotemp2\Temporada2\Negocios\obj\Debug\Negocios.pdb

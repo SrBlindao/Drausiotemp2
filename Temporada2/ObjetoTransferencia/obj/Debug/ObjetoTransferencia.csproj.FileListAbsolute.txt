@@ -1,0 +1,6 @@
+E:\GitHub\Drausiotemp2\Temporada2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+E:\GitHub\Drausiotemp2\Temporada2\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+E:\GitHub\Drausiotemp2\Temporada2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.AssemblyReference.cache
+E:\GitHub\Drausiotemp2\Temporada2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+E:\GitHub\Drausiotemp2\Temporada2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+E:\GitHub\Drausiotemp2\Temporada2\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
